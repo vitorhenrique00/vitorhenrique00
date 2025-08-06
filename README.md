@@ -42,24 +42,7 @@ Me chamo Vitor Henrique, tenho 23 anos e sou natural de São Paulo. Concluí o e
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
       margin: 50px auto;
       text-align: center;
-    }
-
-    /* Quadro interno (já existente) */
-    .gif-frame {
-      width: 300px;
-      padding: 10px;
-      border: 4px solid #888;
-      border-radius: 8px;
-      background-color: #f9f9f9;
-      margin: 0 auto;
-    }
-
-    .gif-frame img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 0 auto;
-    }
+  
   </style>
 </head>
 <body>
@@ -74,3 +57,4 @@ Me chamo Vitor Henrique, tenho 23 anos e sou natural de São Paulo. Concluí o e
 
 </body>
 </html>
+
