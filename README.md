@@ -56,17 +56,10 @@ Me chamo Vitor Henrique, tenho 23 anos e sou natural de São Paulo. Concluí o e
       display: block;
       margin: 0 auto;
     }
-  </style>
-</head>
-<body>
+<div style="border: 4px solid #888; border-radius: 8px; padding: 10px; background-color: #f9f9f9; width: 320px; margin: 0 auto; text-align: center;">
 
-<div class="moldura-externa">
-  <div class="gif-frame">
-    <img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF animado">
-  </div>
+  <img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF animado" width="300" />
+
 </div>
-
-</body>
-</html>
 
 
