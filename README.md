@@ -32,22 +32,6 @@ Me chamo Vitor Henrique, tenho 23 anos e sou natural de São Paulo. Concluí o e
   <meta charset="UTF-8">
   <title>Quadro com GIF</title>
   <style>
-    /* Moldura externa (quadro decorativo maior) */
-    .moldura-externa {
-      width: 360px;
-      padding: 20px;
-      border: 8px solid #444;
-      border-radius: 12px;
-      background-color: #e0e0e0;
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-      margin: 50px auto;
-      text-align: center;
-  <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Quadro com GIF</title>
-  <style>
     .gif-frame {
       width: 300px;
       padding: 10px;
@@ -73,4 +57,5 @@ Me chamo Vitor Henrique, tenho 23 anos e sou natural de São Paulo. Concluí o e
 
 </body>
 </html>
+
 
