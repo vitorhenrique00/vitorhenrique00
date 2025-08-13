@@ -22,7 +22,7 @@ Me chamo Vitor Henrique, tenho 23 anos e sou natural de São Paulo. Concluí o e
 
 <div style="border: 4px solid #888; border-radius: 8px; padding: 10px; background-color: #f9f9f9; width: 320px; margin: 0 auto; text-align: center;">
 
-  <img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF animado" width="300" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 </div>
 
