@@ -25,3 +25,12 @@ Me chamo Vitor Henrique, tenho 23 anos e sou natural de São Paulo. Concluí o e
   <img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF animado" width="300" />
 
 </div>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
