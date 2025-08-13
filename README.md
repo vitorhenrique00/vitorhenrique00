@@ -3,7 +3,7 @@ Me chamo Vitor Henrique, tenho 23 anos e sou natural de São Paulo. Concluí o e
 
 
 ## 🌐 Redes sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/252412285534863361) [![LinkedIn](https://www.linkedin.com/in/vitor-henrique-290905286/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitorhenrique00/rafaballerini) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/252412285534863361) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-henrique-290905286/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] 
 
 # 💻 Aprendendo :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
