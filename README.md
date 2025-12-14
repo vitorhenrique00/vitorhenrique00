@@ -1,5 +1,5 @@
 # Sobre mim:
-Me chamo Vitor Henrique, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio, sou formado em Criminologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifran. Sou apaixonada por tecnologia, sou iniciante na aréa de TI espero adquirir novos conhecimentos e passar adiante futuramente.
+Me chamo Vitor Henrique, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio, sou formado em Criminologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia, sou iniciante na aréa de TI espero adquirir novos conhecimentos e passar adiante futuramente.
 
 
 ## 🌐 Redes sociais:
