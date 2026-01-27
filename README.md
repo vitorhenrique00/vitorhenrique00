@@ -1,6 +1,3 @@
-# Sobre mim:
-Me chamo Vitor Henrique, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio, sou formado em Criminologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia, sou iniciante na aréa de TI espero adquirir novos conhecimentos e passar adiante futuramente.
-
 
 ## 🌐 Redes sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/252412285534863361) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-henrique-290905286/) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) 
