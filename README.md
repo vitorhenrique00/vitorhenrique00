@@ -1,9 +1,4 @@
-
-## 🌐 Redes sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/252412285534863361) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-henrique-290905286/) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) 
-
-
-# 💻 Aprendendo :
+# 💻:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
